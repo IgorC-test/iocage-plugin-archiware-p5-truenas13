@@ -1,1 +1,1 @@
-# iocage-plugin-archiware-p5-treunas13
+# Archiware P5 plugin for TrueNAS versino 13.*
