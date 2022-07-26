@@ -1,1 +1,1 @@
-# Archiware P5 plugin for TrueNAS versino 13.*
+# Archiware P5 plugin for TrueNAS version 13.*
