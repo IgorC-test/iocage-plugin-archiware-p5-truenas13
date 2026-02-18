@@ -6,7 +6,7 @@ echo "downloading package"
 # if needed switch to awpst*-freebsd12.tgz and add
 # mv /usr/local/aw/binaries/FreeBSD/amd64/12 /usr/local/aw/binaries/FreeBSD/amd64/13
 # before executing start-server
-fetch http://p5-downloads.s3.amazonaws.com/awpst800-freebsd13.tgz
+fetch http://p5-downloads.s3.amazonaws.com/awpst801-freebsd13.tgz
 echo "unpacking tar"
 tar -xvf /usr/local/aw/awpst*-freebsd13.tgz -C /usr/local/aw/
 echo "deleting tgz"
